@@ -1,0 +1,28 @@
+{
+  "name": "SliceFi",
+  "symbol": "SlFi",
+  "description": "A meme token dedicated to preserving the art and authenticity of pizza-making while celebrating pizza culture and creating a sustainable future with a global pizza school.",
+  "image": "https://i.imgur.com/yuf8Qg3.png",
+  "attributes": [
+    {
+      "trait_type": "Mission",
+      "value": "Preserve Pizza Authenticity"
+    },
+    {
+      "trait_type": "Vision",
+      "value": "Establish a Sustainable Pizza School"
+    },
+    {
+      "trait_type": "Cultural Celebration",
+      "value": "Global Pizza Awareness"
+    },
+    {
+      "trait_type": "Chef Experience",
+      "value": "12 years"
+    },
+    {
+      "trait_type": "Sustainability Focus",
+      "value": "Educating Future Generations"
+    }
+  ]
+}

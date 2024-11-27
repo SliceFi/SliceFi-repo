@@ -88,7 +88,7 @@
     "tsc-alias": "^1.7.0",
     "turbo": "^1.9.3",
     "typedoc": "^0.23.0",
-    "typescript": "^4.5.4"
+    "typescript": "5.7.2"
   },
   "engines": {
     "node": ">=16.0"
@@ -98,5 +98,8 @@
     "not IE 11",
     "maintained node versions"
   ],
-  "packageManager": "pnpm@8.2.0"
+  "packageManager": "pnpm@8.2.0",
+  "dependencies": {
+    "@solana/codecs-data-structures": "^2.0.0"
+  }
 }

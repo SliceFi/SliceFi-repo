@@ -18,6 +18,7 @@
     "url": "https://github.com/metaplex-foundation/js.git"
   },
   "scripts": {
+     "start": "node index.js",
     "clean": "turbo run clean --filter=[origin/main]",
     "clean:all": "turbo run clean",
     "build": "turbo run build --filter=[origin/main]",

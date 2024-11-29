@@ -1,0 +1,11 @@
+{
+  "name": "SliceFi",
+  "symbol": "SlFi",
+  "uri": "https://example.com/metadata.json",
+  "image": "https://example.com/image.png",
+  "attributes": [
+    { "trait_type": "Mission", "value": "Preserve Pizza Authenticity" },
+    { "trait_type": "Vision", "value": "Establish a Sustainable Pizza School" },
+    { "trait_type": "Cultural Celebration", "value": "Global Pizza Awareness" }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "name": "@metaplex-foundation/js",
+  "name": "metaplex",
   "private": true,
   "workspaces": [
     "packages/*"
@@ -89,7 +89,7 @@
     "tsc-alias": "^1.7.0",
     "turbo": "^1.9.3",
     "typedoc": "^0.23.28",
-    "typescript": "4.9.5"
+    "typescript": "5.7.2"
   },
   "engines": {
     "node": ">=16.0"
@@ -101,6 +101,7 @@
   ],
   "packageManager": "pnpm@8.2.0",
   "dependencies": {
-    "@solana/codecs-data-structures": "^2.0.0"
+    "express": "^4.17.1",
+    "@solana/web3.js": "^1.36.0"
   }
 }
